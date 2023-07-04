@@ -20,3 +20,12 @@ h1 {
 .logoMAXIMUM {
     max-width: 100px;
     }
+
+.HTMLdescription{
+    text-shadow: green 2px -2px;
+    font-size:24px;
+    font-style: italic;
+    text-align:center
+
+
+}
